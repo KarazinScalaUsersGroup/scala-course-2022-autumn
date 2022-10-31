@@ -41,6 +41,7 @@ object Homework :
   object `Boolean Operators` :
 
     def not(b: Boolean): Boolean = ??? // here is my greatest solution
+      // My cool implementation
 
     def and(left: Boolean, right: Boolean): Boolean = ???
 
